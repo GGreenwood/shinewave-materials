@@ -7,11 +7,11 @@ However, official clear controller backs(necessary to see the LEDs) are difficul
 Since I will have full control over the new model, I hope to include several modifications that will make assembly easier and allow for easy USB connections.
 
 # Contents
- | Folder                   | Contents                                          |
- | ------------------------ | ------------------------------------------------- |
- | ./controller-model       | Rough 3D scan of a GameCube controller back       |
- | ./shinewave-board/main   | Schematics and board for the main Shinewave PCB   |
- | ./shinewave-board/leds   | Schematics and board for each LED                 |
+| Folder                   | Contents                                          |
+| ------------------------ | ------------------------------------------------- |
+| `./controller-model`     | Rough 3D scan of a GameCube controller back       |
+| `./shinewave-board/main` | Schematics and board for the main Shinewave PCB   |
+| `./shinewave-board/leds` | Schematics and board for each LED                 |
 
 # Todo
 
