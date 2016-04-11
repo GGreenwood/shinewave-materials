@@ -30,7 +30,9 @@ As it stands, I have been either hot gluing parts into the case, or letting wire
 
 I would like to include some mounting mechanism for the main PCB, and each of the five LED PCBs. I'm not sure what kind of mounting mechanism would be injection-molding friendly.
 
-In the images below, I've marked the approximate mounting point locations. The LEDs are marked by X's, while the Shinewave PCB is marked by the rectangle on the back. Additionally, the USB port is the filled inner rectangle on the back.
+In the album below, I've marked the approximate mounting point locations. The LEDs are marked by X's, while the Shinewave PCB is marked by the rectangle on the back. Additionally, the USB port is the filled inner rectangle on the back.
+
+[PCB Mounting points](http://imgur.com/a/13wrS)
 
 ## USB access
 
